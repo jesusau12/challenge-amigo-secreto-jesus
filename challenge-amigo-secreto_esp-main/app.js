@@ -18,6 +18,7 @@ function agregarAmigo() {
    amigos.push(nombre);
    // utilice este fragmento para tomar el valor o el texto escrito por el usuario y luego utilizarlo en el codigo añadiendolo a la lista
    document.getElementById('amigo').value = "";
+   obtenerLista(amigos); // Llame a la función obtenerLista para actualizar la lista en la página
 }
 // utilice el console.log para asegurarme que los nombres se esten agregando correctamente a la lista
 console.log(amigos);
@@ -28,18 +29,17 @@ function obtenerLista(amigos) {
     let lista = document.getElementById("listaAmigos");
 // cree esta linea para vaciar el contenido de la lista, para asegurarme que siempre se muestre la informacion actualizada    
     lista.innerHTML = "";
-
 // cree este bucle for para poder recorrer la lista desde 0 hasta el ultimo valor de la lista de forma ordenada
     for(let i = 0; i < amigos.length; i++) {
 // cree el elemento <li> para asignar cada nombre como un item dentro de la lista    
-        let nuevoElementoLista = document.createElement ("li");
+    let nuevoElementoLista = document.createElement ("li");
 // cree esta proxima linea en el codigo para asignar el nombre del amigo al elemento de lista        
-        nuevoElementoLista.textContent = amigos[i];
+    nuevoElementoLista.textContent = amigos[i];
 //con esta linea agregue el nuevo elemento de la lista al contenedor de la lista para mostrar en la pagina    
     lista.appendChild(nuevoElementoLista);
 // cree este console.log para comprobar que el elemento se agregue correctamente y que contenga el contenido que espero, de esta manera me aseguro que todo este bien
-    console.log(nuevoElementoLista);
-    }
+console.log(nuevoElementoLista);
+ }
 }
 
 // cree la funcion sortearAmigo() para ejecutar el sorteo y mostrar en la pagina el resultado
@@ -61,5 +61,4 @@ function sortearAmigo() {
 // actualice el contenido del elemento de resultado para luego mostrar el amigo sorteado  
   let resultadoElemento = document.getElementById("resultados");
   resultadoElemento.innerHTML = "Tu amigo secreto es: " + amigoSecreto;
-  
 }
