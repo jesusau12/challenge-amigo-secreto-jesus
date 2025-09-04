@@ -1,3 +1,4 @@
-AMIGO SECRETO WEB
-     Esta aplicacion web permite añadir nombre de amigos y luego realizar
-     un sorteo donde el resultado sera la seleccion de un amigo secreto
+APP WEB AMIGO SECRETO
+
+
+![sorteo amigo secreto](https://github.com/user-attachments/assets/a9812866-9c98-43de-a111-d62423f397af)
