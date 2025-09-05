@@ -38,8 +38,9 @@ nombres para luego realizar un sorteo y que esta app le arroje como resultado el
 - `Funcionalidad 3`: Mostrar los resultados: Una vez realizado el sorteo, esta funcionalidad muestra al usuario quién le tocó como amigo secreto. utilice condicionales y bucles para recorrer el array de participantes y mostrar los resultados de forma clara y organizada.
 - `Funcionalidad 4`: Validar los datos de entrada: Aca me asegure de que los datos ingresados por el usuario sean válidos. Por ejemplo, verificar que los nombres no estén vacíos y que haya al menos dos participantes para realizar el sorteo.
 
+![sorteo](https://github.com/user-attachments/assets/c8e039d8-c27f-48e9-9086-4424cc5c714f)
 
-
+[acceso al proyecto](file:///Users/eli/Desktop/jesus.alura.latam/challenge-amigo-secreto-jesus/challenge-amigo-secreto_esp-main/index.html)
 
 
 
