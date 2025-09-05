@@ -16,11 +16,7 @@
 * [Descripción del proyecto](#descripción-del-proyecto)
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 * [Acceso al proyecto](#acceso-proyecto)
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Personas Contribuyentes](#personas-contribuyentes)
 * [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-* [Licencia](#licencia)
-* [Conclusión](#conclusión)
 
 
 <h1 align="center"> DESCRIPCION DEL PROYECTO APP WEB SORTEO AMIGO SECRETO </h1>
@@ -40,6 +36,9 @@ nombres para luego realizar un sorteo y que esta app le arroje como resultado el
 
 ![sorteo](https://github.com/user-attachments/assets/c8e039d8-c27f-48e9-9086-4424cc5c714f)
 
+**ACCESO AL PROYECTO**
 
+![acceso al codigo fuente](https://github.com/jesusau12/challenge-amigo-secreto-jesus.git)
 
-
+## DESARROLLADOR
+https://github.com/jesusau12
