@@ -40,7 +40,6 @@ nombres para luego realizar un sorteo y que esta app le arroje como resultado el
 
 ![sorteo](https://github.com/user-attachments/assets/c8e039d8-c27f-48e9-9086-4424cc5c714f)
 
-[acceso al proyecto](file:///Users/eli/Desktop/jesus.alura.latam/challenge-amigo-secreto-jesus/challenge-amigo-secreto_esp-main/index.html)
 
 
 
